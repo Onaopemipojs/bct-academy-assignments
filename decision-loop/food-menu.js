@@ -1,5 +1,5 @@
-const choice = 3;
-switch (choice) {
+const food = 3;
+switch (food) {
   case 1:
     console.log("Jollof Rice");
     break;
